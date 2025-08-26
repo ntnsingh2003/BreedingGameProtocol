@@ -1,4 +1,4 @@
-"# rise-in-web3project" 
+
 # BreedingGame Protocol
 
 ## Project Description
@@ -99,4 +99,5 @@ To interact with the BreedingGame Protocol:
 ### Contributing
 
 We welcome contributions to the BreedingGame Protocol! Please feel free to submit issues, feature requests, or pull requests to help improve the ecosystem.
+
 
